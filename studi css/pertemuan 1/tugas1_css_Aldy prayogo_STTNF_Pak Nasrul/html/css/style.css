@@ -1,0 +1,41 @@
+p{
+	color:black;
+	text-align:left;
+	font-family:calibri, verdana, comic sans, tahoma;
+	font-size:15px;
+}
+body{
+    background-color:#57f6c1;
+}
+img{
+    border-radius: 100px;
+}
+hr{
+	border-width:1px;
+	border-color:black;
+	border-style:solid;
+}
+/* groupping */
+fieldset, legend{
+	border:#48f5f1 groove 5px;	
+}
+legend{
+	padding:10px; /* all padding */
+	background-color:aquamarine;
+	color:white;
+	font-weight:bold;
+	font-size:18px;
+	text-transform:uppercase;
+	font-family:ubuntu, calibri,Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	letter-spacing:5px;
+}
+ol { 
+	list-style-image: url("../images/musik.gif"); 
+} 
+ul { 
+	list-style-image: url("../images/nyanyi.gif"); 
+} 
+td{
+    vertical-align: top;
+    padding: 30px;
+}
